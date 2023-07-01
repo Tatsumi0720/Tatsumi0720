@@ -7,10 +7,9 @@
 
 - How to reach me **escobandress@gmail.com**
 
-- ⚡ 📫 Dato curioso **Full Stack Developer con formación como ingeniero de sistemas. Experiencia trabajando en Node.Js, React, Redux, SQL entre otras tecnologías del sector. Forme parte de la creación de un E-commerce para la compra de smartphones, smartwatchs y earphones con el objetivo de brindar un plus y crecimiento a una pequeña empresa, además participe en la creación de un aplicativo web para una fundación que brindaba procesos de recolección y donación de productos a personas necesitadas. Apasionado por la innovación, la solución de problemas, el trabajo en equipo y la ética laboral.**<h3 align="left">Conéctate conmigo:</h3><
+- ⚡ 📫 Dato curioso **Full Stack Developer con formación como ingeniero de sistemas. Experiencia trabajando en Node.Js, React, Redux, SQL entre otras tecnologías del sector. Forme parte de la creación de un E-commerce para la compra de smartphones, smartwatchs y earphones con el objetivo de brindar un plus y crecimiento a una pequeña empresa, además participe en la creación de un aplicativo web para una fundación que brindaba procesos de recolección y donación de productos a personas necesitadas. Apasionado por la innovación, la solución de problemas, el trabajo en equipo y la ética laboral.**<h3 align="left">Conéctate conmigo:</h3>
 
-
-p align="left">
+<p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/andresescobar07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/andresescobar07/" height="30" width="40" /></a></p><h3 align="left">Lenguajes y herramientas:</h3><p align="left">
 
 
