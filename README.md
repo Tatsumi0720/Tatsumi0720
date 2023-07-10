@@ -29,7 +29,7 @@
 
 - 📫 Escríbeme o contáctame: **escobandress@gmail.com**
 
-- 📄 Mira mi Hoja de Vida: <a href="https://github.com/AndresGarcia96/aboutme/blob/main/HOJA%20DE%20VIDA%202023%20-%20ENVIAR.pdf" target="blank">CV Resume</a>
+- 📄 Mira mi Hoja de Vida: <a href="https://github.com/Tatsumi0720/Tatsumi0720/blob/main/CV%20Andres%20Escobar.pdf" target="blank">CV Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
 
