@@ -1,25 +1,45 @@
-<h1 align="center">Hola 👋, soy Andrés Escobar</h1><h3 align="center">Un apasionado desarrollador web de una pequeña ciudad de Colombia.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=tatsumi0720&label=Profile%20views&color=0e75b6&style=flat" alt="tatsumi0720" /> </p>
+<h1 align="center">Hola 👋, yo soy <a href="https://www.linkedin.com/in/andres-escobar-044504251/" target="blank">Andres Escobar</a> de Colombia</h1>
+<h3 align="center">Desarrollador full stack con una sólida formación en ingeniería de sistemas gracias a la Universidad de la Amazonia y pasión por el desarrollo web especializándome en el bootcamp de Henry. Apasionado por la innovación, la solución de desafíos empresariales y la ética laboral. 💯</h3>
 
+<h3 align="center">Recientemente graduado de bootcamp Soy Henry en la carrera de Desarrollo Web Full Stack.</h3>
 
+<h3>Soy estudiante de la Universidad de la Amazonia proximo a graduarse de la carrera de ingenieria de sistemas, con mas de 2 años de experiencia realizando proyectos autonomos, en conjunto y con empresas. Me considero una persona proactiva, creativa y comprometida, siempre dispuesta a enfrentar nuevos desafíos y aprender de ellos. Mi objetivo principal es utilizar mis habilidades y conocimientos para desarrollar soluciones innovadoras que mejoren la calidad de vida de las personas y contribuyan al avance de la sociedad en general. </h3>
+<br/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
 
+- 🤝 Estoy disponible para trabajar como Freelancer.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatsumi0720" alt="tatsumi0720" /></a> </p>
+- 💬 Preguntame o hablemos acerca de **Bases de datos - Metodogologias - Arquitecturas - Programación**
 
-- How to reach me **escobandress@gmail.com**
+- 🧑‍💻 Tecnologias usadas:
 
-- ⚡ 📫 Dato curioso **Full Stack Developer con formación como ingeniero de sistemas. Experiencia trabajando en Node.Js, React, Redux, SQL entre otras tecnologías del sector. Forme parte de la creación de un E-commerce para la compra de smartphones, smartwatchs y earphones con el objetivo de brindar un plus y crecimiento a una pequeña empresa, además participe en la creación de un aplicativo web para una fundación que brindaba procesos de recolección y donación de productos a personas necesitadas. Apasionado por la innovación, la solución de problemas, el trabajo en equipo y la ética laboral.**<h3 align="left">Conéctate conmigo:</h3>
+  - JavaScript
+  - React
+  - Redux
+  - Node JS
+  - Express
+  - Sequelize
+  - CSS
+  - HTML
+  - Git/GitHub
+  - PostgresSql
+  - MySql
 
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/andresescobar07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/andresescobar07/" height="30" width="40" /></a></p><h3 align="left">Lenguajes y herramientas:</h3><p align="left">
+- 📫 Escríbeme o contáctame: **escobandress@gmail.com**
 
+- 📄 Mira mi Hoja de Vida: <a href="https://github.com/AndresGarcia96/aboutme/blob/main/HOJA%20DE%20VIDA%202023%20-%20ENVIAR.pdf" target="blank">CV Resume</a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
 
+<p align="center">
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/andres-escobar-044504251/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Tatsumi0720">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+ </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatsumi0720&show_icons=true&locale=en&layout=compact" alt="tatsumi0720" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatsumi0720&show_icons=true&locale=en" alt="tatsumi0720" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatsumi0720&" alt="tatsumi0720" /></p>
-
-
+</p>
